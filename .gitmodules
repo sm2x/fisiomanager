@@ -1,0 +1,12 @@
+[submodule "k8s"]
+	path = k8s
+	url = git@github.com:martini97/fisiomanager-k8s.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:martini97/fisiomanager-nginx.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:martini97/fisiomanager-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:martini97/fisiomanager-frontend.git
